@@ -84,9 +84,8 @@ p {
     color: #ffffff;
 }
 
-.box-image {
-    height: 200px;
-    width: 300px;
+.img {
+    max-height: 200px;
 }
 
 .benefits {
