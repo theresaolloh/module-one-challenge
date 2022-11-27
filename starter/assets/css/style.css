@@ -119,23 +119,12 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
+.sidebar img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 /*
 .online-reputation-management {
