@@ -59,10 +59,6 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 /*
 .float-right {
     float: right;
@@ -84,8 +80,13 @@ p {
     color: #ffffff;
 }
 
-.box .img {
+.box img {
     max-height: 200px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
 }
 
 .benefits {
