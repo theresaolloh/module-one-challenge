@@ -14,10 +14,10 @@ Title elements contain a concise, descriptive title
 
 ## Technologies Used
 
-HTML
-CSS
-VS Code 
-Git and GitHub
+'*' HTML
+'*' CSS
+'*' VS Code 
+'*' Git and GitHub
 
 ## Wins / Key Learnings
 The biggest win for me was learning how to create classes and use loops to get rid of repetive code. It taught the importance of making code accessible, adding alt texts to images and most impoartantly, how to optimize and leave an existing codebase cleaner than received.
